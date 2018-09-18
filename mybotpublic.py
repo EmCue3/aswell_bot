@@ -1,3 +1,5 @@
+#Done with the assistance of a generous redditor
+
 import praw
 import time
 import os
